@@ -1,2 +1,3 @@
 requests
 pandas
+pip install --upgrade pip
